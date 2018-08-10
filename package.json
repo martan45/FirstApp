@@ -47,8 +47,11 @@
     }
   },
   "dependencies": {
+    "dialogs": "^1.1.20",
     "electron-compile": "^6.4.3",
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-prompt": "^1.1.0-1",
+    "electron-squirrel-startup": "^1.0.0",
+    "smalltalk": "^3.1.1"
   },
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
